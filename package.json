@@ -1,0 +1,20 @@
+﻿{
+  "name": "falloutfanatics-death-trash-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Live API for FalloutFanatics Death Trash page",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
+
+
+
